@@ -1,0 +1,6 @@
+### Clion project template
+
+.idea/
+cmake-build-debug/
+linux-build/
+bin/

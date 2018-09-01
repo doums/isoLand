@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>worm_0000</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-0.5,-14.5}</string>
+                <key>spriteSize</key>
+                <string>{23,3}</string>
+                <key>spriteSourceSize</key>
+                <string>{32,32}</string>
+                <key>textureRect</key>
+                <string>{{19,219},{23,3}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>27 32 4 32 4 29 27 29</string>
+                <key>verticesUV</key>
+                <string>42 222 19 222 19 219 42 219</string>
+            </dict>
+            <key>worm_0001</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-1,-10.5}</string>
+                <key>spriteSize</key>
+                <string>{24,11}</string>
+                <key>spriteSourceSize</key>
+                <string>{32,32}</string>
+                <key>textureRect</key>
+                <string>{{29,271},{24,11}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 2 3 0 1 2</string>
+                <key>vertices</key>
+                <string>27 32 3 32 7 21 27 21</string>
+                <key>verticesUV</key>
+                <string>53 282 29 282 33 271 53 271</string>
+            </dict>
+            <key>worm_0002</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-1.5,-6}</string>
+                <key>spriteSize</key>
+                <string>{27,20}</string>
+                <key>spriteSourceSize</key>
+                <string>{32,32}</string>
+                <key>textureRect</key>
+                <string>{{1,273},{27,20}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 1 3 1 2 3 0 3 4</string>
+                <key>vertices</key>
+                <string>28 25 28 32 1 32 1 26 15 12</string>
+                <key>verticesUV</key>
+                <string>28 286 28 293 1 293 1 287 15 273</string>
+            </dict>
+            <key>worm_0003</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,-0.5}</string>
+                <key>spriteSize</key>
+                <string>{24,31}</string>
+                <key>spriteSourceSize</key>
+                <string>{32,32}</string>
+                <key>textureRect</key>
+                <string>{{1,92},{24,31}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 1 2 0 2 3</string>
+                <key>vertices</key>
+                <string>28 25 28 32 4 32 4 1</string>
+                <key>verticesUV</key>
+                <string>25 116 25 123 1 123 1 92</string>
+            </dict>
+            <key>worm_0004</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0.5,-3.5}</string>
+                <key>spriteSize</key>
+                <string>{25,25}</string>
+                <key>spriteSourceSize</key>
+                <string>{32,32}</string>
+                <key>textureRect</key>
+                <string>{{1,219},{25,25}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>29 32 4 32 4 7 18 7</string>
+                <key>verticesUV</key>
+                <string>26 244 1 244 1 219 15 219</string>
+            </dict>
+            <key>worm_0005</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-1,-2}</string>
+                <key>spriteSize</key>
+                <string>{28,28}</string>
+                <key>spriteSourceSize</key>
+                <string>{32,32}</string>
+                <key>textureRect</key>
+                <string>{{1,62},{28,28}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 1 2 0 2 3</string>
+                <key>vertices</key>
+                <string>22 6 29 32 1 32 8 4</string>
+                <key>verticesUV</key>
+                <string>22 64 29 90 1 90 8 62</string>
+            </dict>
+            <key>worm_0006</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,-1}</string>
+                <key>spriteSize</key>
+                <string>{24,30}</string>
+                <key>spriteSourceSize</key>
+                <string>{32,32}</string>
+                <key>textureRect</key>
+                <string>{{1,158},{24,30}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 1 3 1 2 3 0 3 4</string>
+                <key>vertices</key>
+                <string>28 8 28 32 4 32 4 11 22 2</string>
+                <key>verticesUV</key>
+                <string>25 164 25 188 1 188 1 167 19 158</string>
+            </dict>
+            <key>worm_0007</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,-2.5}</string>
+                <key>spriteSize</key>
+                <string>{24,27}</string>
+                <key>spriteSourceSize</key>
+                <string>{32,32}</string>
+                <key>textureRect</key>
+                <string>{{27,188},{24,27}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>28 32 4 32 4 5 28 5</string>
+                <key>verticesUV</key>
+                <string>51 215 27 215 27 188 51 188</string>
+            </dict>
+            <key>worm_0008</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,-2.5}</string>
+                <key>spriteSize</key>
+                <string>{24,27}</string>
+                <key>spriteSourceSize</key>
+                <string>{32,32}</string>
+                <key>textureRect</key>
+                <string>{{27,159},{24,27}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>28 32 4 32 4 5 28 5</string>
+                <key>verticesUV</key>
+                <string>51 186 27 186 27 159 51 159</string>
+            </dict>
+            <key>worm_0009</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,-2.5}</string>
+                <key>spriteSize</key>
+                <string>{24,27}</string>
+                <key>spriteSourceSize</key>
+                <string>{32,32}</string>
+                <key>textureRect</key>
+                <string>{{1,190},{24,27}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>28 32 4 32 4 5 28 5</string>
+                <key>verticesUV</key>
+                <string>25 217 1 217 1 190 25 190</string>
+            </dict>
+            <key>worm_0010</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,-1.5}</string>
+                <key>spriteSize</key>
+                <string>{24,29}</string>
+                <key>spriteSourceSize</key>
+                <string>{32,32}</string>
+                <key>textureRect</key>
+                <string>{{31,62},{24,29}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>28 32 4 32 4 3 28 3</string>
+                <key>verticesUV</key>
+                <string>55 91 31 91 31 62 55 62</string>
+            </dict>
+            <key>worm_0011</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{1.5,-2.5}</string>
+                <key>spriteSize</key>
+                <string>{29,27}</string>
+                <key>spriteSourceSize</key>
+                <string>{32,32}</string>
+                <key>textureRect</key>
+                <string>{{32,1},{29,27}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 2 3 0 1 2</string>
+                <key>vertices</key>
+                <string>32 32 3 32 10 8 32 5</string>
+                <key>verticesUV</key>
+                <string>61 28 32 28 39 4 61 1</string>
+            </dict>
+            <key>worm_0012</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{1.5,-1.5}</string>
+                <key>spriteSize</key>
+                <string>{29,29}</string>
+                <key>spriteSourceSize</key>
+                <string>{32,32}</string>
+                <key>textureRect</key>
+                <string>{{1,1},{29,29}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 2 3 0 1 2</string>
+                <key>vertices</key>
+                <string>32 32 3 32 8 7 32 3</string>
+                <key>verticesUV</key>
+                <string>30 30 1 30 6 5 30 1</string>
+            </dict>
+            <key>worm_0013</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,-3}</string>
+                <key>spriteSize</key>
+                <string>{24,26}</string>
+                <key>spriteSourceSize</key>
+                <string>{32,32}</string>
+                <key>textureRect</key>
+                <string>{{29,243},{24,26}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>28 32 4 32 4 6 28 6</string>
+                <key>verticesUV</key>
+                <string>53 269 29 269 29 243 53 243</string>
+            </dict>
+            <key>worm_0014</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,-2.5}</string>
+                <key>spriteSize</key>
+                <string>{24,27}</string>
+                <key>spriteSourceSize</key>
+                <string>{32,32}</string>
+                <key>textureRect</key>
+                <string>{{31,126},{24,27}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>28 32 4 32 4 5 28 5</string>
+                <key>verticesUV</key>
+                <string>55 153 31 153 31 126 55 126</string>
+            </dict>
+            <key>worm_0015</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,-1}</string>
+                <key>spriteSize</key>
+                <string>{24,30}</string>
+                <key>spriteSourceSize</key>
+                <string>{32,32}</string>
+                <key>textureRect</key>
+                <string>{{31,30},{24,30}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 1 3 1 2 3 0 3 4</string>
+                <key>vertices</key>
+                <string>28 8 28 32 4 32 4 11 22 2</string>
+                <key>verticesUV</key>
+                <string>55 36 55 60 31 60 31 39 49 30</string>
+            </dict>
+            <key>worm_0016</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-1,-2}</string>
+                <key>spriteSize</key>
+                <string>{28,28}</string>
+                <key>spriteSourceSize</key>
+                <string>{32,32}</string>
+                <key>textureRect</key>
+                <string>{{1,32},{28,28}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 1 2 0 2 3</string>
+                <key>vertices</key>
+                <string>22 6 29 32 1 32 8 4</string>
+                <key>verticesUV</key>
+                <string>22 34 29 60 1 60 8 32</string>
+            </dict>
+            <key>worm_0017</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0.5,-3.5}</string>
+                <key>spriteSize</key>
+                <string>{25,25}</string>
+                <key>spriteSourceSize</key>
+                <string>{32,32}</string>
+                <key>textureRect</key>
+                <string>{{1,246},{25,25}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>29 32 4 32 4 7 18 7</string>
+                <key>verticesUV</key>
+                <string>26 271 1 271 1 246 15 246</string>
+            </dict>
+            <key>worm_0018</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,-0.5}</string>
+                <key>spriteSize</key>
+                <string>{24,31}</string>
+                <key>spriteSourceSize</key>
+                <string>{32,32}</string>
+                <key>textureRect</key>
+                <string>{{1,125},{24,31}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 1 2 0 2 3</string>
+                <key>vertices</key>
+                <string>28 25 28 32 4 32 4 1</string>
+                <key>verticesUV</key>
+                <string>25 149 25 156 1 156 1 125</string>
+            </dict>
+            <key>worm_0019</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-0.5,-3}</string>
+                <key>spriteSize</key>
+                <string>{25,26}</string>
+                <key>spriteSourceSize</key>
+                <string>{32,32}</string>
+                <key>textureRect</key>
+                <string>{{31,93},{25,26}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 1 2 0 2 3</string>
+                <key>vertices</key>
+                <string>28 30 28 32 3 32 14 6</string>
+                <key>verticesUV</key>
+                <string>56 117 56 119 31 119 42 93</string>
+            </dict>
+            <key>worm_0020</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-1.5,-3.5}</string>
+                <key>spriteSize</key>
+                <string>{25,25}</string>
+                <key>spriteSourceSize</key>
+                <string>{32,32}</string>
+                <key>textureRect</key>
+                <string>{{28,216},{25,25}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 1 2</string>
+                <key>vertices</key>
+                <string>27 32 2 32 27 7</string>
+                <key>verticesUV</key>
+                <string>53 241 28 241 53 216</string>
+            </dict>
+            <key>worm_0021</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-0.5,-14.5}</string>
+                <key>spriteSize</key>
+                <string>{23,3}</string>
+                <key>spriteSourceSize</key>
+                <string>{32,32}</string>
+                <key>textureRect</key>
+                <string>{{8,93},{23,3}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>27 32 4 32 4 29 27 29</string>
+                <key>verticesUV</key>
+                <string>31 96 8 96 8 93 31 93</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>worm.png</string>
+            <key>size</key>
+            <string>{62,294}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:91170d6f42deb2df4677b37e47d0b168:548c9bc795ae69af6cd1502399cbe859:af1f56087b0c87988b7dfd5231c794a0$</string>
+            <key>textureFileName</key>
+            <string>worm.png</string>
+        </dict>
+    </dict>
+</plist>
