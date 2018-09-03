@@ -23,10 +23,8 @@ Conceptualize a 2D isometric video game, open and tiled map. Cross-platform (des
 - download project
 
 ```
-$ git clone https://gitlab.com/ProjetsHUB/Dommerc.git
+$ git clone https://github.com/doums/isoLand.git
 ```
-
-or https://gitlab.com/ProjetsHUB/Dommerc
 
 - install Cocos2d-x
   
